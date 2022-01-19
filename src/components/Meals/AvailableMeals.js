@@ -11,8 +11,8 @@ const DUMMY_MEALS = [
   },
   {
     id: 'm2',
-    name: 'Schnitzel',
-    description: 'A german specialty!',
+    name: 'Kwek Kwek',
+    description: 'Filipino Classic Neon Balls!',
     price: 16.5,
   },
   {
